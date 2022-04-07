@@ -1,10 +1,10 @@
 CG_Final
 
 #### Pipeline
-![](https://i.imgur.com/TgdsrLC.png)
+![](https://i.imgur.com/TgdsrLC.png) 
 
 #### Breham's Algorithm
-![](https://i.imgur.com/lE6X0Ow.png)
+![](https://i.imgur.com/lE6X0Ow.png) 
 
 #### Area Sampling (Prefiltering)
 
@@ -46,11 +46,11 @@ Deal with the easy cases, then the hard ones
 ### Interpolation of Z values
 * Interpolate after perspective projection transformation to get correct color.
 #### Octree
-![](https://i.imgur.com/O8zHB7e.png)
+![](https://i.imgur.com/O8zHB7e.png) 
 
 #### BSP Tree (Binary Space Partitioning Tree)
-![](https://i.imgur.com/51Q2crZ.png)
-![](https://i.imgur.com/UlAyLv9.png)
+![](https://i.imgur.com/51Q2crZ.png) 
+![](https://i.imgur.com/UlAyLv9.png) 
 
 ## Ch.9 Buffers and Mapping Techniques
 ### Mapping Methods
@@ -59,14 +59,14 @@ Deal with the easy cases, then the hard ones
     * Two-part Mapping: Cylindrical, Spherical, Box Mapping
     * Second Mapping
     * Mipmap (prefiltering method)
-    ![](https://i.imgur.com/OzP7ngc.png)
+    ![](https://i.imgur.com/OzP7ngc.png) 
 * Environment Mapping
     * Lattitude, Sphere, Cube Mapping
 * Normal and Bump Mapping
     * bump map shows height, normal map can be more detailed(angle...)
     * both needs Phong Shading to work
 
-![](https://i.imgur.com/WnGcOgS.png)
+![](https://i.imgur.com/WnGcOgS.png) 
 
 ### Anti-aliasing
 
@@ -82,15 +82,15 @@ Deal with the easy cases, then the hard ones
 * Area sampling
 #### Pixel phasing
 pixel positions are shifted to nearly approximate positions near object geometry
-![](https://i.imgur.com/woddvvH.jpg)
+![](https://i.imgur.com/woddvvH.jpg) 
 
 #### Shader Code
 vertex shader
-![](https://i.imgur.com/EyMfBeD.png)
+![](https://i.imgur.com/EyMfBeD.png) 
 
 geometry shader (pass var)
-![](https://i.imgur.com/1ESVNwS.png)
+![](https://i.imgur.com/1ESVNwS.png) 
 
 fragment shader
-![](https://i.imgur.com/hS8fRRf.png)
+![](https://i.imgur.com/hS8fRRf.png) 
 
